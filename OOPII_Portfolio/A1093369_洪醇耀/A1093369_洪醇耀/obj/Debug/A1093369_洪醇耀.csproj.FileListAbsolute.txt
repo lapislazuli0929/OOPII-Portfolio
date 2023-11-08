@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\A1093369_洪醇耀\A1093369_洪醇耀\bin\Debug\A1093369_洪醇耀.exe.config
+C:\Users\user\source\repos\A1093369_洪醇耀\A1093369_洪醇耀\bin\Debug\A1093369_洪醇耀.exe
+C:\Users\user\source\repos\A1093369_洪醇耀\A1093369_洪醇耀\bin\Debug\A1093369_洪醇耀.pdb
+C:\Users\user\source\repos\A1093369_洪醇耀\A1093369_洪醇耀\obj\Debug\A1093369_洪醇耀.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\A1093369_洪醇耀\A1093369_洪醇耀\obj\Debug\A1093369_洪醇耀.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\A1093369_洪醇耀\A1093369_洪醇耀\obj\Debug\A1093369_洪醇耀.exe
+C:\Users\user\source\repos\A1093369_洪醇耀\A1093369_洪醇耀\obj\Debug\A1093369_洪醇耀.pdb
